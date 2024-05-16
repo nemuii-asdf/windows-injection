@@ -13,3 +13,15 @@ bind "MOUSE4" "switchhands"
 bind "mouse5" "+voicerecord"
 
 You can change alias inside the config
+
+Video Settings Explained
+- "setting.defaultres"		"1280"
+	"setting.defaultresheight"		"1024"
+(width x height)
+- "setting.refreshrate_numerator"		"239760"
+(monitor's refresh rate)
+- "setting.fullscreen"		"1"
+1 = fullscreen; 0 = windowed
+- "setting.mat_vsync"		"0"
+0 = vsync off; 1 = vsync on
+
