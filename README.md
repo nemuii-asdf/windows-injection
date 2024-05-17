@@ -22,7 +22,7 @@ Video Settings Explained
 (width x height)
 
 - "setting.refreshrate_numerator"		"239760"
-- 
+
 (monitor's refresh rate)
 
 - "setting.fullscreen"		"1"
