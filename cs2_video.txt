@@ -1,7 +1,7 @@
 "video.cfg"
 {
-	"setting.defaultres"		"1280"
-	"setting.defaultresheight"		"1024"
+	"setting.defaultres"		"1024"
+	"setting.defaultresheight"		"768"
 	"setting.refreshrate_numerator"		"239760"
 	"setting.refreshrate_denominator"		"1000"
 	"setting.fullscreen"		"1"
